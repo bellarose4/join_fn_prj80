@@ -1,0 +1,23 @@
+h2{
+    text-align: center;
+}
+
+#showParagraph1{
+    text-align: center;
+    font-size: 30px;
+    color: chocolate;
+}
+
+#showParagraph2{
+    text-align: center;
+    font-size: 30px;
+    color: blueviolet;
+}
+
+.column
+{
+    float: left;
+    width: 49%;
+    padding: 10px;
+}
+
